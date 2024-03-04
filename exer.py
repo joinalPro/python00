@@ -6,5 +6,5 @@ if 20 % marks == 0:
 
 else:
     number = "Negative"
-
+3
 print ("number is : ", number)
