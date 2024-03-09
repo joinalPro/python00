@@ -1,3 +1,3 @@
-print ("hello Joinal Abden")
-
-print( 'hello bd')
+# string
+print('Python Master Class') 
+print()
