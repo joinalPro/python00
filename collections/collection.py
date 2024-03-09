@@ -3,7 +3,7 @@ st = ["tapazzul", "Rayhan Khan", "Abu", "Nasir", "Forhad"]
 
 nums = ["Apple",23, 3,23, 11, 54.5]
 #print(nums, st)
-print(nums[0])
+# print(nums[0])
 
-name = "joinal abden"
+name = "md joinal abden"
 print(name[9])

@@ -1,1 +1,1 @@
-print('book');
+print('book')
