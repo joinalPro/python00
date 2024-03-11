@@ -32,3 +32,9 @@ print(type(str_num))
 int_num = int(str_num)
 print(int_num)
 print(type(int_num))
+
+list
+tuple
+set
+dictionary
+
