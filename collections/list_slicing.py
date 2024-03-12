@@ -10,4 +10,4 @@ nums = [1,2,3,4,5,6,7,8,9]
 # print(nums[2:-2])
 
 # tell the step
-print(nums[2:-1:3])
+# print(nums[2:-1:3])
