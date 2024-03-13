@@ -42,3 +42,9 @@ nums = [23, 45, 67, 89, 54, 37, 97, 99]
 
 # t [0] = 10
 # print(t)
+
+t = (1,23,'aaa',1)
+t + ('new',)
+# print(type(t[2]))
+# print(len(t))
+print(t.count(1))
